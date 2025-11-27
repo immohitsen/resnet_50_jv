@@ -1,0 +1,13 @@
+# --- Python Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (if you use them)
+venv/
+.venv/
+env/
+
+# Model Weights (Optional: Prevent pushing massive files if they are >100MB)
+# *.safetensors
+# *.bin
